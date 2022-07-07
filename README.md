@@ -12,4 +12,4 @@ Usage: Simply include the header "docpdflib.hpp" in your application and the two
 
 Sample PDF document
 
-<img src="https://github.com/pgfjr/docpdflib/blob/main/samples/example.pdf"/>
+<img src="samples/examples.pdf"/>
