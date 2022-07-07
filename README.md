@@ -10,6 +10,6 @@ Dependencies: URW fonts, GDI+, and Zlib (64-bit DLL included). This library also
 
 Usage: Simply include the header "docpdflib.hpp" in your application and the two .cpp files from AGG (agg_bezier_arc.cpp and agg_trans_affine.cpp). See the 'examples.cpp' for more information.
 
-Sample PDF document
+See 'examples.pdf' in the 'sample folder.
 
 <img src="samples/examples.pdf"/>
