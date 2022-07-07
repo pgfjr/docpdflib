@@ -241,7 +241,7 @@ int main()
 
     // create a document for writing
     // ENSURE that the 'fonts' folder is in the current directory
-    if (doc.create("example.pdf"))
+    if (doc.create("examples.pdf"))
     {
         // create a page object
         // 612 = width; 792 = height; 0 = rotation (must be a multiple of 90)
